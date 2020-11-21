@@ -106,7 +106,7 @@ int main(void){
 }
 ```
 
-start server visit [127.0.0.1:2333](127.0.0.1:2333) as you sea the server .c has becom a web server but not so bueatifull ! 
+start server visit [127.0.0.1:2333](127.0.0.1:2333) as you see the server .c has become a web server but not so bueatifull ! 
 
 
 
