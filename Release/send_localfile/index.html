@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+    <title>My Web Server Programming Experience</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="data:;base64">
+<body>
+    <H1>Hello World</H1>
+    <article></article>
+    <script>
+        var POST= (url,tx) => {
+            let xhr = new XMLHttpRequest();
+            xhr.open("POST",url);
+            xhr.send(tx);
+            xhr.onload=()=>console.log("recived: ", xhr.responseText);
+        }
+        // POST("127.0.0.0:2333","Hi server!");
+    </script>
+</body>
