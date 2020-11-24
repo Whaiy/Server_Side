@@ -1,8 +1,7 @@
 # LOG
 
-## Socket Programming in C
+## 20201124 Socket Programming in C
 
 create basick server & client network promgrame
 first clear knows how the basic webserver & webbrowrer work in http
-
-the string process is complex in C, much detail to solve
+have to deal with many details
