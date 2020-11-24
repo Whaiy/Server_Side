@@ -1,6 +1,6 @@
 # LOG
 
-## Programming Socket in C
+## Socket Programming in C
 
 create a basick server & client network
 first knows how the webserver & webbrower work in http
