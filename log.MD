@@ -2,7 +2,7 @@
 
 ## Socket Programming in C
 
-create a basick server & client network
-first knows how the webserver & webbrower work in http
+create basick server & client network promgrame
+first clear knows how the basic webserver & webbrowrer work in http
 
-the string process is complex in C, the a object programming language. much detail to solve
+the string process is complex in C, much detail to solve
